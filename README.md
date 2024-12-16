@@ -28,7 +28,7 @@ Users can sort and analyze their transactions for better financial management.
 
 ## **Demo Video**  
 [Watch the Demo](/DemoVideo.mov)  
-*Take a closer look at how Apple Pay Insights works in action.*  
+*Take a closer look at how WalletWisse works in action.*  
 
 ---
 
@@ -50,4 +50,4 @@ Users can sort and analyze their transactions for better financial management.
 ## **Installation**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/NirTurjeman/WalletWise.git
