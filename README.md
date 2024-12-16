@@ -1,4 +1,4 @@
-# **Apple Pay Insights**  
+# **WalletWise**  
 *Track and organize your Apple Pay transactions.*
 
 ---
@@ -9,23 +9,21 @@
 ---
 
 ## **Features**  
-- **View Apple Pay Transactions**: See transaction details such as the amount and merchant name.  
-- **Offline Operation**: All data is processed and stored locally on the device for maximum privacy.  
-- **Secure Data Handling**: No external servers, no data sharing – not even the developer has access.  
-- **User-Friendly Interface**: A clean, intuitive design for effortless navigation.  
+- **View Apple Pay Transactions**: See transaction details such as the amount and merchant name, transaction location, date and time of the transaction.
+- **Offline Operation**: All data is processed and stored locally on the device for maximum privacy.
+- **Data Analysis Page**: Allows you to see graphs to analyze monthly expenses for better expense management.
 
 ---
 
-## **How It Works**  
-1. **Transaction Data Retrieval**:  
-   The app securely accesses transaction data stored in the Wallet app. Users can view transaction details such as merchant name and amount directly in the app.  
+## **How ​​it works**
+1. **Transaction data retrieval**:
+The app securely accesses transaction data stored in the wallet app and real-time transactions. Users can view transaction details such as merchant name and amount directly in the app.
 
-2. **Offline Privacy**:  
-   The app operates without internet connectivity. All transaction data remains securely on the user's device, ensuring no external access.  
+2. **Offline privacy**:
+The app works without an internet connection. All transaction data remains securely on the user’s device, ensuring there is no external access.
 
-3. **Effortless Organization**:  
-   Users can sort and analyze their transactions for better financial management.  
-
+3. **Effortless organization**:
+Users can sort and analyze their transactions for better financial management.
 ---
 
 ## **Demo Video**  
