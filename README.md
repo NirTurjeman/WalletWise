@@ -27,17 +27,19 @@ Users can sort and analyze their transactions for better financial management.
 ---
 
 ## **Demo Video**  
-[Watch the Demo](https://link-to-your-video)  
+[Watch the Demo](/DemoVideo.mov)  
 *Take a closer look at how Apple Pay Insights works in action.*  
 
 ---
 
 ## **Screenshots**  
-1. **Transaction List**  
-   ![Transaction List](https://link-to-image-1)  
+1. **Home Screen**
+   ![Home View](/HomeScreen.png)
+1. **Transaction Details**  
+   ![Transaction Details](/TransactionDetails.png)  
 
-2. **Detailed View**  
-   ![Detailed View](https://link-to-image-2)  
+2. **Analysis Screen**  
+   ![Analysis View](/AnalysisScreen.png)  
 
 ---
 
