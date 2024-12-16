@@ -34,12 +34,16 @@ Users can sort and analyze their transactions for better financial management.
 
 ## **Screenshots**  
 1. **Home Screen**
-   ![Home View](/HomeScreen.png)
-1. **Transaction Details**  
-   ![Transaction Details](/TransactionDetails.png)  
+   
+   <img src="/HomeScreen.png" alt="Home View" width="400">
 
-2. **Analysis Screen**  
-   ![Analysis View](/AnalysisScreen.png)  
+2. **Transaction Details**
+   
+   <img src="/TransactionDetiails.png" alt="Transaction Details" width="400">
+
+3. **Analysis Screen**
+   
+   <img src="/AnalysisScreen.png" alt="Analysis View" width="400">
 
 ---
 
